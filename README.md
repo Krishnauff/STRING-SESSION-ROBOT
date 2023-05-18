@@ -17,7 +17,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/VIP_STRING_ROBOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/KRISHNA_SESSIONS_ROBOT)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
