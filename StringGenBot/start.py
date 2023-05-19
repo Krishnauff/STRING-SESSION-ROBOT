@@ -24,8 +24,8 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝐊𝐑𝐈𝐒𝐇𝐍𝐀](tg://user?id={O
                     InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://github.com/AnonymousX1025/StringGenBot"),
-                    InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
+                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://t.me/ab_krishna_uff"),
+                    InlineKeyboardButton("🥀ᴋʀɪsʜɴᴀ🥀", user_id=OWNER_ID)
                 ]
             ]
         ),
