@@ -12,14 +12,11 @@ async def start(bot: Client, msg: Message):
     me2 = (await bot.get_me()).mention
     await bot.send_message(
         chat_id=msg.chat.id,
-        text=f"""𝐇𝐞𝐲 {msg.from_user.mention}🍷,
+        text=f"""Hᴇʏ {msg.from_user.mention}🍷,
 
-𝐈 𝐀𝐦 {me2},
-𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐒𝐓𝐑𝐈𝐍𝐆 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑 𝐁𝐎𝐓.
-𝐅𝐔𝐋𝐋𝐘 𝐒𝐀𝐅𝐄 & 𝐒𝐄𝐂𝐔𝐑𝐄.
-𝐍𝐎 𝐀𝐌𝐘 𝐄𝐑𝐑𝐎𝐑.
+Tʜɪs ɪs {me2},Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-𝐌𝐚𝐝𝐞 𝐁𝐲  : [𝐊𝐑𝐈𝐒𝐇𝐍𝐀](tg://user?id={OWNER_ID}) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝐊𝐑𝐈𝐒𝐇𝐍𝐀](https://t.me/ab_krishna_uff) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
