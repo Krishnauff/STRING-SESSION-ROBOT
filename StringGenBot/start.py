@@ -29,6 +29,7 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton("❣️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ❣️", url="https://t.me/ab_krishna_uff"),
                     InlineKeyboardButton("🥀 𝐎𝐟𝐟𝐢𝐜𝐞 🥀", url="https://t.me/Ajanabee_Duniya")   
             ]
-        ),
+         ]
+      ),
         disable_web_page_preview=True,
     )
